@@ -28,3 +28,4 @@ with open('test.txt', 'r', encoding='utf-8') as f:
 print('Total words:', total_words)
 print('Hit words:', hit_words)
 print('Miss words:', misswords[:100])
+print("rate:", hit_words / total_words)

@@ -1,0 +1,5 @@
+MeCab==0.996.5
+mecab_python3==1.0.9
+nltk==3.9.1
+numpy==2.1.2
+torch==2.4.1+cu124
