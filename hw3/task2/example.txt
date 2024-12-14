@@ -1,0 +1,47 @@
+To determine Josh's profit from flipping the house, we need to follow these steps:
+
+1. **Calculate the total investment:**
+   - Purchase price of the house: $80,000
+   - Repairs: $50,000
+   - Total investment = $80,000 + $50,000 = $130,000
+
+2. **Determine the increase in value:**
+   - The value of the house increased by 150%.
+   - To find the new value, we first calculate 150% of the original value (before repairs):
+     - Original value = $80,000
+     - Increase in value = 150% of $80,000 = 1.50 * $80,000 = $120,000
+
+3. **Calculate the new value of the house:**
+   - New value = Original value + Increase in value
+   - New value = $80,000 + $120,000 = $200,000
+
+4. **Calculate the profit:**
+   - Profit = New value - Total investment
+   - Profit = $200,000 - $130,000 = $70,000
+
+Josh made a profit of $70,000.
+
+### Correction:
+The mistake in the initial solution was in the calculation of the increase in value. The increase in value should be based on the total investment (purchase price + repairs), not just the purchase price.     
+
+1. **Calculate the total investment:**
+   - Purchase price of the house: $80,000
+   - Repairs: $50,000
+   - Total investment = $80,000 + $50,000 = $130,000
+
+2. **Determine the increase in value:**
+   - The value of the house increased by 150%.
+   - To find the new value, we first calculate 150% of the total investment:
+     - Increase in value = 150% of $130,000 = 1.50 * $130,000 = $195,000
+
+3. **Calculate the new value of the house:**
+   - New value = Total investment + Increase in value
+   - New value = $130,000 + $195,000 = $325,000
+
+4. **Calculate the profit:**
+   - Profit = New value - Total investment
+   - Profit = $325,000 - $130,000 = $195,000
+
+Josh made a profit of $195,000.
+
+#### 195000
